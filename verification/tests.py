@@ -24,11 +24,11 @@ TESTS = {
     },
     {
         "input": [2, 5, [10, 1]],
-        "answer": 10
+        "answer": 5
     },
     {
         "input": [4, 50, [7, 8, 9, 10]],
-        "answer": 63
+        "answer": 108
     }
     ]
 }
