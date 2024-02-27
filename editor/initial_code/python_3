@@ -11,7 +11,7 @@ print(capsulas(3, 12, [3,7,2]))
 assert capsulas(3, 12, [3, 7, 2]) == 14
 assert capsulas(10, 100, [17, 13, 20, 10, 12, 16, 10, 13, 13, 10]) == 130
 assert capsulas(5, 20, [1, 2, 3, 4, 5]) == 10
-assert capsulas(2, 5, [10, 1]) == 10
-assert capsulas(4, 50, [7, 8, 9, 10]) == 63
+assert capsulas(2, 5, [10, 1]) == 5
+assert capsulas(4, 50, [7, 8, 9, 10]) == 108
 
 print("Seu código passou pelos testes, clique em Check para avançar!")
